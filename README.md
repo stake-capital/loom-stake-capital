@@ -3,13 +3,15 @@ Information related to Loom network for Stake Capital
 
 # Installation
 ## Upgrade the system
+```
 sudo apt update
 sudo apt upgrade -y
 sudo apt install gcc git make -y
+```
 
 ### Run Loom blockchain
 
-Run on extdev-plasma-us1.dappchains.com
+Run on `extdev-plasma-us1.dappchains.com`
 
 ### Download stable version
 ```
