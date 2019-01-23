@@ -191,3 +191,7 @@ CreateEmptyBlocks: false
   "app_hash": ""
 }
 ```
+
+# Monitor the instance
+## Logs
+`sudo journalctl -u loom.service -f`
